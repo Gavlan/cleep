@@ -1,0 +1,9 @@
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\bin\Debug\cleep.exe.config
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\bin\Debug\cleep.exe
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\bin\Debug\cleep.pdb
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.csprojResolveAssemblyReference.cache
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.Form1.resources
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.Properties.Resources.resources
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.csproj.GenerateResource.Cache
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.exe
+C:\Users\apershin\Documents\GitHub\cleep\cleep\cleep\obj\Debug\cleep.pdb
